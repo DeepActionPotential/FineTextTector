@@ -1,4 +1,4 @@
-# AI vs Human Text Fine-Tuned Classifier
+# AI vs Human Text Fine-Tuned Classifier 
 
 ## About the Project
 
