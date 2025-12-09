@@ -1,7 +1,7 @@
 import streamlit as st
 from utils import load_model, preprocess_text
 import nltk
-
+ 
 nltk.download('stopwords')
 model = load_model('./models/best_model.joblib')
 
